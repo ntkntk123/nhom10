@@ -1,1 +1,5 @@
-1
+"https://review.rakuten.co.jp/item/1/411453_10000035",
+    "https://review.rakuten.co.jp/item/1/411453_10000036",
+    "https://review.rakuten.co.jp/item/1/411453_10000037",
+    "https://review.rakuten.co.jp/item/1/411453_10000038",
+    "https://review.rakuten.co.jp/item/1/411453_10000039"
